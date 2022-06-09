@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Ahad</h1>
-<h3 align="center">A enthusiastic yet a very lazy learner who loves to connect and explore.</h3>
+<h3 align="center">An enthusiastic yet a very lazy learner who loves to connect and explore.</h3>
 
 - 📫 How to reach me **Bug me on Messenger**
 
